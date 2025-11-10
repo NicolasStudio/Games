@@ -9,3 +9,7 @@ function abrirBatalhaNaval(){
 function abrirJogoMemoria(){
     window.location.href = "jogoMemoria.html";
 }
+
+function abrirJogoMusica(){
+    window.location.href = "adivinhaMusica.html";
+}
