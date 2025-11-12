@@ -21,8 +21,8 @@ const musicas = [
   { title: 'Top Gear - Theme', jogo: 'Top Gear', src: 'Games/Music/Top Gear - Theme.mp3', numero: '4' },
   { title: 'Bully - Theme', jogo: 'Bully', src: 'Games/Music/Bully - Theme.mp3', numero: '5' },
   { title: 'The Last of Us', jogo: 'The last of us', src: 'Games/Music/The Last of Us.mp3', numero: '6' },
-  { title: 'Crash Bandicoot', jogo: 'Crash', src: '../Music/Crash Bandicoot.mp3', numero: '7' },
-  { title: 'Gta San Andreas', jogo: 'Gta San Andreas', src: '.GamesMusic/Gta San Andreas.mp3', numero: '8' },
+  { title: 'Crash Bandicoot', jogo: 'Crash', src: 'Games/Music/Crash Bandicoot.mp3', numero: '7' },
+  { title: 'Gta San Andreas', jogo: 'Gta San Andreas', src: 'Games/Music/Gta San Andreas.mp3', numero: '8' },
   { title: 'Aerokid - Habbo', jogo: 'Habbo', src: 'Games/Music/Aerokid - Habbo.mp3', numero: '9' },
   { title: 'Super Bomberman', jogo: 'Super Bomberman', src: 'Games/Music/Super Bomberman.mp3', numero: '10' }
 ];
