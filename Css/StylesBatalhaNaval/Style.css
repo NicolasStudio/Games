@@ -67,7 +67,8 @@
 }
 
 .back {
-  background-image: url('/Img/ImagensBatalha/Mar.jpg');
+  background-image: url('../Img/ImagensBatalha/Mar.jpg');
+
   background-size: cover;
   background-position: center;
   backface-visibility: hidden;
